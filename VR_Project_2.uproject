@@ -14,6 +14,10 @@
 			]
 		},
 		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
+		},
+		{
 			"Name": "OpenXREyeTracker",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
@@ -30,10 +34,6 @@
 				"Linux",
 				"Android"
 			]
-		},
-		{
-			"Name": "ModelingToolsEditorMode",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
